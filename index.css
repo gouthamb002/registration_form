@@ -1,0 +1,8 @@
+body {
+    background-color: lightblue;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    text-align: center;
+    justify-content: center;
+}
